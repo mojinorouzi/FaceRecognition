@@ -1,0 +1,11 @@
+.vscode
+data/*
+!data/.gitkeep
+training_checkpoints/*
+!training_checkpoints/.gitkeep
+lfw.tgz
+siamesemodel.h5
+application_data/input_image/*
+!application_data/input_image/.gitkeep
+application_data/verification_images/*
+application_data/verification_images/.gitkeep
